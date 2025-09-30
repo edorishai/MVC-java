@@ -6,5 +6,10 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/pdfbox-app-2.0.27 (5).jar"/>
+	<classpathentry kind="lib" path="lib/javase-3.5.3 (1).jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-app-2.0.30 (4).jar"/>
+	<classpathentry kind="lib" path="lib/core-3.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/javase-3.5.3 (2).jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
